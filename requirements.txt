@@ -1,0 +1,28 @@
+# Manipulação de dados
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+sentence-transformers
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Processamento de texto
+nltk
+spacy
+
+# Coleta de dados
+feedparser
+requests
+
+# Análise exploratória
+jupyter
+notebook
+
+# Utilidades
+tqdm
+python-dotenv
